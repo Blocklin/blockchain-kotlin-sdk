@@ -5,16 +5,10 @@
 [![](https://jitpack.io/v/mobilekosmos/moralis-sdk-android.svg)](https://jitpack.io/#mobilekosmos/moralis-sdk-android)
 [![](https://jitpack.io/v/mobilekosmos/moralis-sdk-android/month.svg)](https://jitpack.io/#mobilekosmos/moralis-sdk-android)
 
-<br>
-<p>
-    <a href="https://moralis.io">
-    <img width="132" height="101" src="https://moralis.io/wp-content/uploads/2021/01/logo.png" class="attachment-full size-full" alt="Moralis Build Serverless web3 apps" loading="lazy" /></a>
-</p>
-
-<h2>Moralis Kotlin SDK for Android (Unofficial)</h2>
+<h2>Blockchain Multiplatform Kotlin SDK</h2>
 
 <p>
-    An unofficial library that gives you access to the powerful Moralis Server backend from your native Android app.
+    An SDK to connect to the Blockchain matrix, native, multiplatform, for Android, iOS and Web. Currently supports connecting only to the Moralis dimension in the Android galaxy, more galaxies and dimensions to come in the future.
 </p>
 
 For more information on Moralis and its features, see [the website](https://moralis.io) or [the documentation](https://docs.moralis.io).
