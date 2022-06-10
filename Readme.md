@@ -21,8 +21,8 @@ Kotlin is the Android native language by excellence and the only one that allows
 ## Getting Started
 
 1. Add the SDK:
-The easiest way to integrate the Moralis SDK into your Android project is through adding the dependency to your buid.gradle file:
-      ```implementation 'com.github.mobilekosmos:moralis-sdk-android:<Tag>'```
+The easiest way to integrate the SDK into your Android project is through adding the dependency to your buid.gradle file:
+      ```implementation 'com.github.blocklin:blockchain-kotlin-sdk:<Tag>'```
 where '< Tag >' is the latest released version on Github, please check.
 You can also use "master-SNAPSHOT" but this is not recommended, as the master is not approved for production.
 
