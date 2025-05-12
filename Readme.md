@@ -5,7 +5,7 @@
 [![](https://jitpack.io/v/mobilekosmos/moralis-sdk-android.svg)](https://jitpack.io/#mobilekosmos/moralis-sdk-android)
 [![](https://jitpack.io/v/mobilekosmos/moralis-sdk-android/month.svg)](https://jitpack.io/#mobilekosmos/moralis-sdk-android)
 
-<h2>Blockchain Multiplatform Kotlin SDK</h2>
+<h2>Blockchain Multiplatform Kotlin SDK (Repository archived)</h2>
 
 <p>
     An SDK to connect to the Blockchain matrix, native, multiplatform, for Android, iOS and Web. Currently supports connecting only to the Moralis dimension in the Android galaxy, more galaxies and dimensions to come in the future.
